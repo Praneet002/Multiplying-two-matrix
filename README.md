@@ -22,7 +22,7 @@ Display the result.
 
 
 ## PROGRAM:
-'''
+
 import numpy as np
 l1, l2 = [],[]
 n= int(input())
@@ -34,7 +34,7 @@ value1= np.array(l1)
 value2 = np.array(l2)
 result = value1*value2
 print("Product of two arrays is:",result)
-'''
+
 
 ## OUTPUT:
 

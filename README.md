@@ -37,6 +37,7 @@ print("Product of two arrays is:",arr)
 ```
 
 ## OUTPUT:
+![output](https://github.com/Praneet002/Multiplying-two-matrix/blob/main/Multiplying%20Two%20Matrix.png)
 
 ## RESULT:
 

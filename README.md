@@ -22,6 +22,19 @@ Display the result.
 
 
 ## PROGRAM: 
+```
+import numpy as np
+mat=int(input())
+l1,l2=[],[]
+for i in range(mat):
+    l1.append(int(input()))
+for i in range(mat):
+    l2.append(int(input()))
+A=np.array(l1)
+A2=np.array(l2)
+arr=A*A2
+print("Product of two arrays is:",arr)
+```
 
 ## OUTPUT:
 
